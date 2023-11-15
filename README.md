@@ -3,13 +3,22 @@
 ### 💫 About Me:
 - 🔭 I’m currently working on [OnlineShop](https://github.com/HaidukEvgen/OnlineShop)
 - 🌱 I’m currently learning **ASP.Net Core and Microservices**
-- 👨‍💻 All of my projects are available at [https://github.com/HaidukEvgen/repositories](https://github.com/HaidukEvgen/repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/HaidukEvgenrepositories](https://github.com/HaidukEvgen?tab=repositories)
 - 💬 Ask me about **.Net**
 - 📫 How to reach me **haidukevgeny@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/evgenyhaiduk](https://www.linkedin.com/in/evgenyhaiduk)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evgenyhaiduk) 
+
+# 👨🏻‍💻 Portfolio:
+[OnlineShop](https://github.com/HaidukEvgen/OnlineShop) - Microservice-based complex system for online shopping
+
+[BookLibraryAPI](https://github.com/HaidukEvgen/BookLibraryAPI) - ASP.NET WebAPI project for Book Library management
+
+[GoalTracker](https://github.com/HaidukEvgen/GoalTracker) - WPF .Net application for managing goals and daily tasks.
+
+[CRUD_Application](https://github.com/HaidukEvgen/CRUD_Application) - CRUD Windows forms application written in C#
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -28,6 +37,7 @@
 ![LOGSTASH](https://img.shields.io/badge/logstash-005571.svg?style=for-the-badge&logo=logstash) 
 ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HaidukEvgen&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HaidukEvgen&theme=algolia&hide_border=true)
